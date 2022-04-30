@@ -1,0 +1,8 @@
+**/node_modules/
+**/.vscode/
+**/.txt
+**/.env
+**/*.jpg
+**/*.jpeg
+**/*.png
+**/package-lock.json
